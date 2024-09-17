@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **financial analysis for a personal project**
 
-- 👨‍💻 All of my projects are available at [maxencenoe.fr](maxencenoe.fr)
+- 👨‍💻 All of my projects are available at [maxencenoel.fr](maxencenoel.fr)
 
 - 💬 Ask me about **Ruby On Rails, Data analysis Business Dev**
 
